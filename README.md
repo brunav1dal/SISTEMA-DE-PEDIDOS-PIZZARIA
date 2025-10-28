@@ -1,4 +1,4 @@
-🍕 Sistema de Pedidos de Pizzaria — SQL + PHP + HTML/CSS (Bootstrap)
+#🍕 Sistema de Pedidos de Pizzaria — SQL + PHP + HTML/CSS (Bootstrap)
 
 App web responsivo para montar e enviar pedidos de pizza. Banco em MySQL (MySQL Workbench), back-end em PHP (via XAMPP/Apache), front em Bootstrap.
 Regra de negócio principal: se o pedido tiver mais de 3 sabores, exibe alerta; caso contrário, processa o pedido
